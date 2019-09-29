@@ -1,0 +1,29 @@
+С пробелами
+
+Entropia in leler:
+4.379492516972483
+RESIDUALITY in leler
+0.1391598025124562
+Entropia in bigram:
+3.9536470619319046
+RESIDUALITY in bigram:
+0.2228646802341614
+Entropia in bigram(without intersections):
+3.9536391207928236
+RESIDUALITY in bigram(without intersections):
+0.22286624115742093
+
+Без пробелов
+
+Entropia in leler:
+4.477808219130329
+RESIDUALITY in leler
+0.11983470762219406
+Entropia in bigram:
+4.135928585824388
+RESIDUALITY in bigram:
+0.18703512637196862
+Entropia in bigram(without intersections):
+4.135919356626574
+RESIDUALITY in bigram(without intersections):
+0.18703694047815522
