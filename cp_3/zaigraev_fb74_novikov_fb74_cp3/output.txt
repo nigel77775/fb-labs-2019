@@ -1,0 +1,788 @@
+['цл', 'ял', 'ае', 'ле', 'чо']
+All possible keys:
+(610, 61)
+(283, 538)
+(521, 864)
+(165, 755)
+(519, 25)
+(265, 951)
+(890, 162)
+(499, 716)
+(491, 504)
+(345, 290)
+(913, 528)
+(25, 842)
+(605, 625)
+(668, 114)
+(761, 139)
+(300, 879)
+(413, 755)
+(510, 404)
+(839, 882)
+(67, 8)
+(327, 83)
+(759, 67)
+(841, 414)
+(740, 867)
+(52, 879)
+(761, 387)
+(296, 517)
+(351, 671)
+(864, 92)
+(324, 125)
+(277, 538)
+(575, 455)
+(223, 231)
+(138, 807)
+(544, 889)
+(180, 244)
+(823, 232)
+(203, 858)
+(796, 532)
+(17, 579)
+(544, 201)
+(469, 817)
+(647, 247)
+(885, 920)
+(912, 524)
+(572, 497)
+(851, 435)
+(523, 36)
+(337, 743)
+(71, 911)
+(214, 332)
+(833, 526)
+(709, 340)
+(604, 448)
+(915, 45)
+(706, 357)
+(221, 445)
+(957, 712)
+(348, 598)
+(417, 497)
+(407, 724)
+(893, 833)
+(368, 309)
+(46, 687)
+(936, 231)
+(894, 690)
+(730, 207)
+(909, 780)
+(455, 309)
+(438, 290)
+(645, 842)
+(363, 286)
+(409, 485)
+(385, 400)
+(717, 228)
+(738, 501)
+(275, 36)
+(14, 621)
+(747, 127)
+(562, 476)
+(172, 331)
+(22, 875)
+(284, 634)
+(76, 714)
+(939, 818)
+(405, 882)
+(200, 900)
+(258, 423)
+(641, 191)
+(356, 448)
+(643, 335)
+(122, 786)
+(800, 833)
+(389, 176)
+(368, 36)
+(376, 197)
+(616, 681)
+(769, 275)
+(417, 745)
+(916, 486)
+(99, 51)
+(251, 809)
+(159, 352)
+(57, 380)
+(665, 156)
+(234, 424)
+(934, 73)
+(138, 94)
+(190, 879)
+(68, 454)
+(606, 46)
+(442, 87)
+(958, 270)
+(3, 437)
+(556, 786)
+(779, 321)
+(35, 166)
+(110, 238)
+(399, 836)
+(823, 827)
+(286, 505)
+(98, 600)
+(213, 557)
+(606, 294)
+(523, 656)
+(479, 838)
+(151, 464)
+(440, 82)
+(66, 693)
+(191, 634)
+(523, 61)
+(710, 611)
+(500, 42)
+(904, 659)
+(207, 166)
+(317, 195)
+(820, 869)
+(541, 931)
+(413, 516)
+(696, 683)
+(616, 656)
+(250, 882)
+(812, 392)
+(576, 59)
+(678, 774)
+(789, 342)
+(306, 216)
+(314, 104)
+(412, 942)
+(624, 569)
+(862, 275)
+(357, 284)
+(926, 185)
+(275, 650)
+(118, 501)
+(255, 102)
+(355, 652)
+(482, 796)
+(872, 941)
+(810, 848)
+(500, 383)
+(430, 402)
+(430, 36)
+(506, 764)
+(613, 109)
+(128, 786)
+(598, 787)
+(854, 393)
+(889, 532)
+(792, 300)
+(513, 362)
+(367, 814)
+(420, 703)
+(316, 231)
+(27, 278)
+(386, 218)
+(699, 641)
+(97, 259)
+(552, 461)
+(770, 73)
+(368, 656)
+(661, 160)
+(169, 373)
+(231, 466)
+(748, 755)
+(531, 290)
+(49, 183)
+(603, 63)
+(771, 433)
+(149, 647)
+(882, 1)
+(895, 619)
+(843, 231)
+(686, 42)
+(754, 160)
+(451, 269)
+(89, 371)
+(470, 783)
+(554, 588)
+(684, 882)
+(293, 559)
+(956, 820)
+(141, 765)
+(863, 820)
+(72, 507)
+(703, 309)
+(637, 548)
+(41, 780)
+(644, 512)
+(182, 30)
+(262, 745)
+(634, 590)
+(606, 21)
+(711, 538)
+(5, 848)
+(944, 94)
+(920, 166)
+(293, 807)
+(202, 45)
+(262, 32)
+(531, 910)
+(192, 423)
+(58, 805)
+(120, 898)
+(318, 397)
+(244, 123)
+(48, 145)
+(585, 154)
+(461, 929)
+(686, 662)
+(761, 734)
+(252, 11)
+(161, 826)
+(677, 786)
+(594, 132)
+(699, 294)
+(79, 672)
+(802, 960)
+(358, 610)
+(549, 751)
+(758, 776)
+(655, 135)
+(548, 191)
+(947, 52)
+(727, 249)
+(320, 507)
+(492, 495)
+(668, 139)
+(593, 42)
+(903, 507)
+(462, 952)
+(461, 656)
+(45, 187)
+(548, 557)
+(781, 795)
+(675, 915)
+(4, 600)
+(107, 280)
+(448, 311)
+(345, 631)
+260
+(610, 61) failed test due to the wrong frequency of the most frequent letters
+(610, 61) failed test due to the wrong frequency of the least frequent letters
+(283, 538) failed test due to the wrong frequency of the most frequent letters
+(283, 538) failed test due to the wrong frequency of the least frequent letters
+(521, 864) failed test due to the wrong frequency of the most frequent letters
+(521, 864) failed test due to the wrong frequency of the least frequent letters
+(165, 755) failed test due to the wrong frequency of the most frequent letters
+(165, 755) failed test due to the wrong frequency of the least frequent letters
+(519, 25) failed test due to the wrong frequency of the most frequent letters
+(519, 25) failed test due to the wrong frequency of the least frequent letters
+(265, 951) failed test due to the wrong frequency of the most frequent letters
+(265, 951) failed test due to the wrong frequency of the least frequent letters
+(890, 162) failed test due to the wrong frequency of the most frequent letters
+(890, 162) failed test due to the wrong frequency of the least frequent letters
+(499, 716) failed test due to the wrong frequency of the most frequent letters
+(499, 716) failed test due to the wrong frequency of the least frequent letters
+(491, 504) failed test due to the wrong frequency of the most frequent letters
+(491, 504) failed test due to the wrong frequency of the least frequent letters
+(345, 290) failed test due to the wrong frequency of the most frequent letters
+(345, 290) failed test due to the wrong frequency of the least frequent letters
+(913, 528) failed test due to the wrong frequency of the most frequent letters
+(913, 528) failed test due to the wrong frequency of the least frequent letters
+(25, 842) failed test due to the wrong frequency of the most frequent letters
+(25, 842) failed test due to the wrong frequency of the least frequent letters
+(605, 625) failed test due to the wrong frequency of the most frequent letters
+(605, 625) failed test due to the wrong frequency of the least frequent letters
+(668, 114) failed test due to the wrong frequency of the most frequent letters
+(668, 114) failed test due to the wrong frequency of the least frequent letters
+(761, 139) failed test due to the wrong frequency of the most frequent letters
+(761, 139) failed test due to the wrong frequency of the least frequent letters
+(300, 879) failed test due to the wrong frequency of the most frequent letters
+(300, 879) failed test due to the wrong frequency of the least frequent letters
+(413, 755) failed test due to the wrong frequency of the most frequent letters
+(413, 755) failed test due to the wrong frequency of the least frequent letters
+(510, 404) failed test due to the wrong frequency of the most frequent letters
+(510, 404) failed test due to the wrong frequency of the least frequent letters
+(839, 882) failed test due to the wrong frequency of the most frequent letters
+(839, 882) failed test due to the wrong frequency of the least frequent letters
+(67, 8) failed test due to the wrong frequency of the most frequent letters
+(67, 8) failed test due to the wrong frequency of the least frequent letters
+(327, 83) failed test due to the wrong frequency of the most frequent letters
+(327, 83) failed test due to the wrong frequency of the least frequent letters
+(759, 67) failed test due to the wrong frequency of the most frequent letters
+(759, 67) failed test due to the wrong frequency of the least frequent letters
+(841, 414) failed test due to the wrong frequency of the most frequent letters
+(841, 414) failed test due to the wrong frequency of the least frequent letters
+(740, 867) failed test due to the wrong frequency of the most frequent letters
+(740, 867) failed test due to the wrong frequency of the least frequent letters
+(52, 879) failed test due to the wrong frequency of the most frequent letters
+(52, 879) failed test due to the wrong frequency of the least frequent letters
+(761, 387) failed test due to the wrong frequency of the most frequent letters
+(761, 387) failed test due to the wrong frequency of the least frequent letters
+(296, 517) failed test due to the wrong frequency of the most frequent letters
+(296, 517) failed test due to the wrong frequency of the least frequent letters
+(351, 671) failed test due to the wrong frequency of the most frequent letters
+(351, 671) failed test due to the wrong frequency of the least frequent letters
+(864, 92) failed test due to the wrong frequency of the most frequent letters
+(864, 92) failed test due to the wrong frequency of the least frequent letters
+(324, 125) failed test due to the wrong frequency of the most frequent letters
+(324, 125) failed test due to the wrong frequency of the least frequent letters
+(277, 538) failed test due to the wrong frequency of the most frequent letters
+(277, 538) failed test due to the wrong frequency of the least frequent letters
+(575, 455) failed test due to the wrong frequency of the most frequent letters
+(575, 455) failed test due to the wrong frequency of the least frequent letters
+(223, 231) failed test due to the wrong frequency of the most frequent letters
+(223, 231) failed test due to the wrong frequency of the least frequent letters
+(138, 807) failed test due to the wrong frequency of the most frequent letters
+(138, 807) failed test due to the wrong frequency of the least frequent letters
+(544, 889) failed test due to the wrong frequency of the most frequent letters
+(544, 889) failed test due to the wrong frequency of the least frequent letters
+(180, 244) failed test due to the wrong frequency of the most frequent letters
+(180, 244) failed test due to the wrong frequency of the least frequent letters
+(823, 232) failed test due to the wrong frequency of the most frequent letters
+(823, 232) failed test due to the wrong frequency of the least frequent letters
+(203, 858) failed test due to the wrong frequency of the most frequent letters
+(203, 858) failed test due to the wrong frequency of the least frequent letters
+(796, 532) failed test due to the wrong frequency of the most frequent letters
+(796, 532) failed test due to the wrong frequency of the least frequent letters
+(17, 579) failed test due to the wrong frequency of the most frequent letters
+(17, 579) failed test due to the wrong frequency of the least frequent letters
+(544, 201) failed test due to the wrong frequency of the most frequent letters
+(544, 201) failed test due to the wrong frequency of the least frequent letters
+(469, 817) failed test due to the wrong frequency of the most frequent letters
+(469, 817) failed test due to the wrong frequency of the least frequent letters
+(647, 247) failed test due to the wrong frequency of the most frequent letters
+(647, 247) failed test due to the wrong frequency of the least frequent letters
+(885, 920) failed test due to the wrong frequency of the most frequent letters
+(885, 920) failed test due to the wrong frequency of the least frequent letters
+(912, 524) failed test due to the wrong frequency of the most frequent letters
+(912, 524) failed test due to the wrong frequency of the least frequent letters
+(572, 497) failed test due to the wrong frequency of the most frequent letters
+(572, 497) failed test due to the wrong frequency of the least frequent letters
+(851, 435) failed test due to the wrong frequency of the most frequent letters
+(851, 435) failed test due to the wrong frequency of the least frequent letters
+(523, 36) failed test due to the wrong frequency of the most frequent letters
+(523, 36) failed test due to the wrong frequency of the least frequent letters
+(337, 743) failed test due to the wrong frequency of the most frequent letters
+(337, 743) failed test due to the wrong frequency of the least frequent letters
+(71, 911) failed test due to the wrong frequency of the most frequent letters
+(71, 911) failed test due to the wrong frequency of the least frequent letters
+(214, 332) failed test due to the wrong frequency of the most frequent letters
+(214, 332) failed test due to the wrong frequency of the least frequent letters
+(833, 526) failed test due to the wrong frequency of the most frequent letters
+(833, 526) failed test due to the wrong frequency of the least frequent letters
+(709, 340) failed test due to the wrong frequency of the most frequent letters
+(709, 340) failed test due to the wrong frequency of the least frequent letters
+(604, 448) failed test due to the wrong frequency of the most frequent letters
+(604, 448) failed test due to the wrong frequency of the least frequent letters
+(915, 45) failed test due to the wrong frequency of the most frequent letters
+(915, 45) failed test due to the wrong frequency of the least frequent letters
+(706, 357) failed test due to the wrong frequency of the most frequent letters
+(706, 357) failed test due to the wrong frequency of the least frequent letters
+(221, 445) failed test due to the wrong frequency of the most frequent letters
+(221, 445) failed test due to the wrong frequency of the least frequent letters
+(957, 712) failed test due to the wrong frequency of the most frequent letters
+(957, 712) failed test due to the wrong frequency of the least frequent letters
+(348, 598) failed test due to the wrong frequency of the most frequent letters
+(348, 598) failed test due to the wrong frequency of the least frequent letters
+(417, 497) failed test due to the wrong frequency of the most frequent letters
+(417, 497) failed test due to the wrong frequency of the least frequent letters
+(407, 724) failed test due to the wrong frequency of the most frequent letters
+(407, 724) failed test due to the wrong frequency of the least frequent letters
+(893, 833) failed test due to the wrong frequency of the most frequent letters
+(893, 833) failed test due to the wrong frequency of the least frequent letters
+(368, 309) failed test due to the wrong frequency of the most frequent letters
+(368, 309) failed test due to the wrong frequency of the least frequent letters
+(46, 687) failed test due to the wrong frequency of the most frequent letters
+(46, 687) failed test due to the wrong frequency of the least frequent letters
+(936, 231) failed test due to the wrong frequency of the most frequent letters
+(936, 231) failed test due to the wrong frequency of the least frequent letters
+(894, 690) failed test due to the wrong frequency of the most frequent letters
+(894, 690) failed test due to the wrong frequency of the least frequent letters
+(730, 207) failed test due to the wrong frequency of the most frequent letters
+(730, 207) failed test due to the wrong frequency of the least frequent letters
+(909, 780) failed test due to the wrong frequency of the most frequent letters
+(909, 780) failed test due to the wrong frequency of the least frequent letters
+(455, 309) failed test due to the wrong frequency of the most frequent letters
+(455, 309) failed test due to the wrong frequency of the least frequent letters
+(438, 290) failed test due to the wrong frequency of the most frequent letters
+(438, 290) failed test due to the wrong frequency of the least frequent letters
+(645, 842) failed test due to the wrong frequency of the most frequent letters
+(645, 842) failed test due to the wrong frequency of the least frequent letters
+(363, 286) failed test due to the wrong frequency of the most frequent letters
+(363, 286) failed test due to the wrong frequency of the least frequent letters
+(409, 485) failed test due to the wrong frequency of the most frequent letters
+(409, 485) failed test due to the wrong frequency of the least frequent letters
+(385, 400) failed test due to the wrong frequency of the most frequent letters
+(385, 400) failed test due to the wrong frequency of the least frequent letters
+(717, 228) failed test due to the wrong frequency of the most frequent letters
+(717, 228) failed test due to the wrong frequency of the least frequent letters
+(738, 501) failed test due to the wrong frequency of the most frequent letters
+(738, 501) failed test due to the wrong frequency of the least frequent letters
+(275, 36) failed test due to the wrong frequency of the most frequent letters
+(275, 36) failed test due to the wrong frequency of the least frequent letters
+(14, 621) failed test due to the wrong frequency of the most frequent letters
+(14, 621) failed test due to the wrong frequency of the least frequent letters
+(747, 127) failed test due to the wrong frequency of the most frequent letters
+(747, 127) failed test due to the wrong frequency of the least frequent letters
+(562, 476) failed test due to the wrong frequency of the most frequent letters
+(562, 476) failed test due to the wrong frequency of the least frequent letters
+(172, 331) failed test due to the wrong frequency of the most frequent letters
+(172, 331) failed test due to the wrong frequency of the least frequent letters
+(22, 875) failed test due to the wrong frequency of the most frequent letters
+(22, 875) failed test due to the wrong frequency of the least frequent letters
+(284, 634) failed test due to the wrong frequency of the most frequent letters
+(284, 634) failed test due to the wrong frequency of the least frequent letters
+(76, 714) failed test due to the wrong frequency of the most frequent letters
+(76, 714) failed test due to the wrong frequency of the least frequent letters
+(939, 818) failed test due to the wrong frequency of the most frequent letters
+(939, 818) failed test due to the wrong frequency of the least frequent letters
+(405, 882) failed test due to the wrong frequency of the most frequent letters
+(405, 882) failed test due to the wrong frequency of the least frequent letters
+(258, 423) failed test due to the wrong frequency of the most frequent letters
+(258, 423) failed test due to the wrong frequency of the least frequent letters
+(641, 191) failed test due to the wrong frequency of the most frequent letters
+(641, 191) failed test due to the wrong frequency of the least frequent letters
+(356, 448) failed test due to the wrong frequency of the most frequent letters
+(356, 448) failed test due to the wrong frequency of the least frequent letters
+(643, 335) failed test due to the wrong frequency of the most frequent letters
+(643, 335) failed test due to the wrong frequency of the least frequent letters
+(122, 786) failed test due to the wrong frequency of the most frequent letters
+(122, 786) failed test due to the wrong frequency of the least frequent letters
+(800, 833) failed test due to the wrong frequency of the most frequent letters
+(800, 833) failed test due to the wrong frequency of the least frequent letters
+(389, 176) failed test due to the wrong frequency of the most frequent letters
+(389, 176) failed test due to the wrong frequency of the least frequent letters
+(368, 36) failed test due to the wrong frequency of the most frequent letters
+(368, 36) failed test due to the wrong frequency of the least frequent letters
+(376, 197) failed test due to the wrong frequency of the most frequent letters
+(376, 197) failed test due to the wrong frequency of the least frequent letters
+(616, 681) failed test due to the wrong frequency of the most frequent letters
+(616, 681) failed test due to the wrong frequency of the least frequent letters
+(769, 275) failed test due to the wrong frequency of the most frequent letters
+(769, 275) failed test due to the wrong frequency of the least frequent letters
+(417, 745) failed test due to the wrong frequency of the most frequent letters
+(417, 745) failed test due to the wrong frequency of the least frequent letters
+(916, 486) failed test due to the wrong frequency of the most frequent letters
+(916, 486) failed test due to the wrong frequency of the least frequent letters
+(99, 51) failed test due to the wrong frequency of the most frequent letters
+(99, 51) failed test due to the wrong frequency of the least frequent letters
+(251, 809) failed test due to the wrong frequency of the most frequent letters
+(251, 809) failed test due to the wrong frequency of the least frequent letters
+(159, 352) failed test due to the wrong frequency of the most frequent letters
+(159, 352) failed test due to the wrong frequency of the least frequent letters
+(57, 380) failed test due to the wrong frequency of the most frequent letters
+(57, 380) failed test due to the wrong frequency of the least frequent letters
+(665, 156) failed test due to the wrong frequency of the most frequent letters
+(665, 156) failed test due to the wrong frequency of the least frequent letters
+(234, 424) failed test due to the wrong frequency of the most frequent letters
+(234, 424) failed test due to the wrong frequency of the least frequent letters
+(934, 73) failed test due to the wrong frequency of the most frequent letters
+(934, 73) failed test due to the wrong frequency of the least frequent letters
+(138, 94) failed test due to the wrong frequency of the most frequent letters
+(138, 94) failed test due to the wrong frequency of the least frequent letters
+(190, 879) failed test due to the wrong frequency of the most frequent letters
+(190, 879) failed test due to the wrong frequency of the least frequent letters
+(68, 454) failed test due to the wrong frequency of the most frequent letters
+(68, 454) failed test due to the wrong frequency of the least frequent letters
+(606, 46) failed test due to the wrong frequency of the most frequent letters
+(606, 46) failed test due to the wrong frequency of the least frequent letters
+(442, 87) failed test due to the wrong frequency of the most frequent letters
+(442, 87) failed test due to the wrong frequency of the least frequent letters
+(958, 270) failed test due to the wrong frequency of the most frequent letters
+(958, 270) failed test due to the wrong frequency of the least frequent letters
+(3, 437) failed test due to the wrong frequency of the most frequent letters
+(3, 437) failed test due to the wrong frequency of the least frequent letters
+(556, 786) failed test due to the wrong frequency of the most frequent letters
+(556, 786) failed test due to the wrong frequency of the least frequent letters
+(779, 321) failed test due to the wrong frequency of the most frequent letters
+(779, 321) failed test due to the wrong frequency of the least frequent letters
+(35, 166) failed test due to the wrong frequency of the most frequent letters
+(35, 166) failed test due to the wrong frequency of the least frequent letters
+(110, 238) failed test due to the wrong frequency of the most frequent letters
+(110, 238) failed test due to the wrong frequency of the least frequent letters
+(399, 836) failed test due to the wrong frequency of the most frequent letters
+(399, 836) failed test due to the wrong frequency of the least frequent letters
+(823, 827) failed test due to the wrong frequency of the most frequent letters
+(823, 827) failed test due to the wrong frequency of the least frequent letters
+(286, 505) failed test due to the wrong frequency of the most frequent letters
+(286, 505) failed test due to the wrong frequency of the least frequent letters
+(98, 600) failed test due to the wrong frequency of the most frequent letters
+(98, 600) failed test due to the wrong frequency of the least frequent letters
+(213, 557) failed test due to the wrong frequency of the most frequent letters
+(213, 557) failed test due to the wrong frequency of the least frequent letters
+(606, 294) failed test due to the wrong frequency of the most frequent letters
+(606, 294) failed test due to the wrong frequency of the least frequent letters
+(523, 656) failed test due to the wrong frequency of the most frequent letters
+(523, 656) failed test due to the wrong frequency of the least frequent letters
+(479, 838) failed test due to the wrong frequency of the most frequent letters
+(479, 838) failed test due to the wrong frequency of the least frequent letters
+(151, 464) failed test due to the wrong frequency of the most frequent letters
+(151, 464) failed test due to the wrong frequency of the least frequent letters
+(440, 82) failed test due to the wrong frequency of the most frequent letters
+(440, 82) failed test due to the wrong frequency of the least frequent letters
+(66, 693) failed test due to the wrong frequency of the most frequent letters
+(66, 693) failed test due to the wrong frequency of the least frequent letters
+(191, 634) failed test due to the wrong frequency of the most frequent letters
+(191, 634) failed test due to the wrong frequency of the least frequent letters
+(523, 61) failed test due to the wrong frequency of the most frequent letters
+(523, 61) failed test due to the wrong frequency of the least frequent letters
+(710, 611) failed test due to the wrong frequency of the most frequent letters
+(710, 611) failed test due to the wrong frequency of the least frequent letters
+(500, 42) failed test due to the wrong frequency of the most frequent letters
+(500, 42) failed test due to the wrong frequency of the least frequent letters
+(904, 659) failed test due to the wrong frequency of the most frequent letters
+(904, 659) failed test due to the wrong frequency of the least frequent letters
+(207, 166) failed test due to the wrong frequency of the most frequent letters
+(207, 166) failed test due to the wrong frequency of the least frequent letters
+(317, 195) failed test due to the wrong frequency of the most frequent letters
+(317, 195) failed test due to the wrong frequency of the least frequent letters
+(820, 869) failed test due to the wrong frequency of the most frequent letters
+(820, 869) failed test due to the wrong frequency of the least frequent letters
+(541, 931) failed test due to the wrong frequency of the most frequent letters
+(541, 931) failed test due to the wrong frequency of the least frequent letters
+(413, 516) failed test due to the wrong frequency of the most frequent letters
+(413, 516) failed test due to the wrong frequency of the least frequent letters
+(696, 683) failed test due to the wrong frequency of the most frequent letters
+(696, 683) failed test due to the wrong frequency of the least frequent letters
+(616, 656) failed test due to the wrong frequency of the most frequent letters
+(616, 656) failed test due to the wrong frequency of the least frequent letters
+(250, 882) failed test due to the wrong frequency of the most frequent letters
+(250, 882) failed test due to the wrong frequency of the least frequent letters
+(812, 392) failed test due to the wrong frequency of the most frequent letters
+(812, 392) failed test due to the wrong frequency of the least frequent letters
+(576, 59) failed test due to the wrong frequency of the most frequent letters
+(576, 59) failed test due to the wrong frequency of the least frequent letters
+(678, 774) failed test due to the wrong frequency of the most frequent letters
+(678, 774) failed test due to the wrong frequency of the least frequent letters
+(789, 342) failed test due to the wrong frequency of the most frequent letters
+(789, 342) failed test due to the wrong frequency of the least frequent letters
+(306, 216) failed test due to the wrong frequency of the most frequent letters
+(306, 216) failed test due to the wrong frequency of the least frequent letters
+(314, 104) failed test due to the wrong frequency of the most frequent letters
+(314, 104) failed test due to the wrong frequency of the least frequent letters
+(412, 942) failed test due to the wrong frequency of the most frequent letters
+(412, 942) failed test due to the wrong frequency of the least frequent letters
+(624, 569) failed test due to the wrong frequency of the most frequent letters
+(624, 569) failed test due to the wrong frequency of the least frequent letters
+(862, 275) failed test due to the wrong frequency of the most frequent letters
+(862, 275) failed test due to the wrong frequency of the least frequent letters
+(357, 284) failed test due to the wrong frequency of the most frequent letters
+(357, 284) failed test due to the wrong frequency of the least frequent letters
+(926, 185) failed test due to the wrong frequency of the most frequent letters
+(926, 185) failed test due to the wrong frequency of the least frequent letters
+(275, 650) failed test due to the wrong frequency of the most frequent letters
+(275, 650) failed test due to the wrong frequency of the least frequent letters
+(118, 501) failed test due to the wrong frequency of the most frequent letters
+(118, 501) failed test due to the wrong frequency of the least frequent letters
+(255, 102) failed test due to the wrong frequency of the most frequent letters
+(255, 102) failed test due to the wrong frequency of the least frequent letters
+(355, 652) failed test due to the wrong frequency of the most frequent letters
+(355, 652) failed test due to the wrong frequency of the least frequent letters
+(482, 796) failed test due to the wrong frequency of the most frequent letters
+(482, 796) failed test due to the wrong frequency of the least frequent letters
+(872, 941) failed test due to the wrong frequency of the most frequent letters
+(872, 941) failed test due to the wrong frequency of the least frequent letters
+(810, 848) failed test due to the wrong frequency of the most frequent letters
+(810, 848) failed test due to the wrong frequency of the least frequent letters
+(500, 383) failed test due to the wrong frequency of the most frequent letters
+(500, 383) failed test due to the wrong frequency of the least frequent letters
+(430, 402) failed test due to the wrong frequency of the most frequent letters
+(430, 402) failed test due to the wrong frequency of the least frequent letters
+(430, 36) failed test due to the wrong frequency of the most frequent letters
+(430, 36) failed test due to the wrong frequency of the least frequent letters
+(506, 764) failed test due to the wrong frequency of the most frequent letters
+(506, 764) failed test due to the wrong frequency of the least frequent letters
+(613, 109) failed test due to the wrong frequency of the most frequent letters
+(613, 109) failed test due to the wrong frequency of the least frequent letters
+(128, 786) failed test due to the wrong frequency of the most frequent letters
+(128, 786) failed test due to the wrong frequency of the least frequent letters
+(598, 787) failed test due to the wrong frequency of the most frequent letters
+(598, 787) failed test due to the wrong frequency of the least frequent letters
+(854, 393) failed test due to the wrong frequency of the most frequent letters
+(854, 393) failed test due to the wrong frequency of the least frequent letters
+(889, 532) failed test due to the wrong frequency of the most frequent letters
+(889, 532) failed test due to the wrong frequency of the least frequent letters
+(792, 300) failed test due to the wrong frequency of the most frequent letters
+(792, 300) failed test due to the wrong frequency of the least frequent letters
+(513, 362) failed test due to the wrong frequency of the most frequent letters
+(513, 362) failed test due to the wrong frequency of the least frequent letters
+(367, 814) failed test due to the wrong frequency of the most frequent letters
+(367, 814) failed test due to the wrong frequency of the least frequent letters
+(420, 703) failed test due to the wrong frequency of the most frequent letters
+(420, 703) failed test due to the wrong frequency of the least frequent letters
+(316, 231) failed test due to the wrong frequency of the most frequent letters
+(316, 231) failed test due to the wrong frequency of the least frequent letters
+(27, 278) failed test due to the wrong frequency of the most frequent letters
+(27, 278) failed test due to the wrong frequency of the least frequent letters
+(386, 218) failed test due to the wrong frequency of the most frequent letters
+(386, 218) failed test due to the wrong frequency of the least frequent letters
+(699, 641) failed test due to the wrong frequency of the most frequent letters
+(699, 641) failed test due to the wrong frequency of the least frequent letters
+(97, 259) failed test due to the wrong frequency of the most frequent letters
+(97, 259) failed test due to the wrong frequency of the least frequent letters
+(552, 461) failed test due to the wrong frequency of the most frequent letters
+(552, 461) failed test due to the wrong frequency of the least frequent letters
+(770, 73) failed test due to the wrong frequency of the most frequent letters
+(770, 73) failed test due to the wrong frequency of the least frequent letters
+(368, 656) failed test due to the wrong frequency of the most frequent letters
+(368, 656) failed test due to the wrong frequency of the least frequent letters
+(661, 160) failed test due to the wrong frequency of the most frequent letters
+(661, 160) failed test due to the wrong frequency of the least frequent letters
+(169, 373) failed test due to the wrong frequency of the most frequent letters
+(169, 373) failed test due to the wrong frequency of the least frequent letters
+(231, 466) failed test due to the wrong frequency of the most frequent letters
+(231, 466) failed test due to the wrong frequency of the least frequent letters
+(748, 755) failed test due to the wrong frequency of the most frequent letters
+(748, 755) failed test due to the wrong frequency of the least frequent letters
+(531, 290) failed test due to the wrong frequency of the most frequent letters
+(531, 290) failed test due to the wrong frequency of the least frequent letters
+(49, 183) failed test due to the wrong frequency of the most frequent letters
+(49, 183) failed test due to the wrong frequency of the least frequent letters
+(603, 63) failed test due to the wrong frequency of the most frequent letters
+(603, 63) failed test due to the wrong frequency of the least frequent letters
+(771, 433) failed test due to the wrong frequency of the most frequent letters
+(771, 433) failed test due to the wrong frequency of the least frequent letters
+(149, 647) failed test due to the wrong frequency of the most frequent letters
+(149, 647) failed test due to the wrong frequency of the least frequent letters
+(882, 1) failed test due to the wrong frequency of the most frequent letters
+(882, 1) failed test due to the wrong frequency of the least frequent letters
+(895, 619) failed test due to the wrong frequency of the most frequent letters
+(895, 619) failed test due to the wrong frequency of the least frequent letters
+(843, 231) failed test due to the wrong frequency of the most frequent letters
+(843, 231) failed test due to the wrong frequency of the least frequent letters
+(686, 42) failed test due to the wrong frequency of the most frequent letters
+(686, 42) failed test due to the wrong frequency of the least frequent letters
+(754, 160) failed test due to the wrong frequency of the most frequent letters
+(754, 160) failed test due to the wrong frequency of the least frequent letters
+(451, 269) failed test due to the wrong frequency of the most frequent letters
+(451, 269) failed test due to the wrong frequency of the least frequent letters
+(89, 371) failed test due to the wrong frequency of the most frequent letters
+(89, 371) failed test due to the wrong frequency of the least frequent letters
+(470, 783) failed test due to the wrong frequency of the most frequent letters
+(470, 783) failed test due to the wrong frequency of the least frequent letters
+(554, 588) failed test due to the wrong frequency of the most frequent letters
+(554, 588) failed test due to the wrong frequency of the least frequent letters
+(684, 882) failed test due to the wrong frequency of the most frequent letters
+(684, 882) failed test due to the wrong frequency of the least frequent letters
+(293, 559) failed test due to the wrong frequency of the most frequent letters
+(293, 559) failed test due to the wrong frequency of the least frequent letters
+(956, 820) failed test due to the wrong frequency of the most frequent letters
+(956, 820) failed test due to the wrong frequency of the least frequent letters
+(141, 765) failed test due to the wrong frequency of the most frequent letters
+(141, 765) failed test due to the wrong frequency of the least frequent letters
+(863, 820) failed test due to the wrong frequency of the most frequent letters
+(863, 820) failed test due to the wrong frequency of the least frequent letters
+(72, 507) failed test due to the wrong frequency of the most frequent letters
+(72, 507) failed test due to the wrong frequency of the least frequent letters
+(703, 309) failed test due to the wrong frequency of the most frequent letters
+(703, 309) failed test due to the wrong frequency of the least frequent letters
+(637, 548) failed test due to the wrong frequency of the most frequent letters
+(637, 548) failed test due to the wrong frequency of the least frequent letters
+(41, 780) failed test due to the wrong frequency of the most frequent letters
+(41, 780) failed test due to the wrong frequency of the least frequent letters
+(644, 512) failed test due to the wrong frequency of the most frequent letters
+(644, 512) failed test due to the wrong frequency of the least frequent letters
+(182, 30) failed test due to the wrong frequency of the most frequent letters
+(182, 30) failed test due to the wrong frequency of the least frequent letters
+(262, 745) failed test due to the wrong frequency of the most frequent letters
+(262, 745) failed test due to the wrong frequency of the least frequent letters
+(634, 590) failed test due to the wrong frequency of the most frequent letters
+(634, 590) failed test due to the wrong frequency of the least frequent letters
+(606, 21) failed test due to the wrong frequency of the most frequent letters
+(606, 21) failed test due to the wrong frequency of the least frequent letters
+(711, 538) failed test due to the wrong frequency of the most frequent letters
+(711, 538) failed test due to the wrong frequency of the least frequent letters
+(5, 848) failed test due to the wrong frequency of the most frequent letters
+(5, 848) failed test due to the wrong frequency of the least frequent letters
+(944, 94) failed test due to the wrong frequency of the most frequent letters
+(944, 94) failed test due to the wrong frequency of the least frequent letters
+(920, 166) failed test due to the wrong frequency of the most frequent letters
+(920, 166) failed test due to the wrong frequency of the least frequent letters
+(293, 807) failed test due to the wrong frequency of the most frequent letters
+(293, 807) failed test due to the wrong frequency of the least frequent letters
+(202, 45) failed test due to the wrong frequency of the most frequent letters
+(202, 45) failed test due to the wrong frequency of the least frequent letters
+(262, 32) failed test due to the wrong frequency of the most frequent letters
+(262, 32) failed test due to the wrong frequency of the least frequent letters
+(531, 910) failed test due to the wrong frequency of the most frequent letters
+(531, 910) failed test due to the wrong frequency of the least frequent letters
+(192, 423) failed test due to the wrong frequency of the most frequent letters
+(192, 423) failed test due to the wrong frequency of the least frequent letters
+(58, 805) failed test due to the wrong frequency of the most frequent letters
+(58, 805) failed test due to the wrong frequency of the least frequent letters
+(120, 898) failed test due to the wrong frequency of the most frequent letters
+(120, 898) failed test due to the wrong frequency of the least frequent letters
+(318, 397) failed test due to the wrong frequency of the most frequent letters
+(318, 397) failed test due to the wrong frequency of the least frequent letters
+(244, 123) failed test due to the wrong frequency of the most frequent letters
+(244, 123) failed test due to the wrong frequency of the least frequent letters
+(48, 145) failed test due to the wrong frequency of the most frequent letters
+(48, 145) failed test due to the wrong frequency of the least frequent letters
+(585, 154) failed test due to the wrong frequency of the most frequent letters
+(585, 154) failed test due to the wrong frequency of the least frequent letters
+(461, 929) failed test due to the wrong frequency of the most frequent letters
+(461, 929) failed test due to the wrong frequency of the least frequent letters
+(686, 662) failed test due to the wrong frequency of the most frequent letters
+(686, 662) failed test due to the wrong frequency of the least frequent letters
+(761, 734) failed test due to the wrong frequency of the most frequent letters
+(761, 734) failed test due to the wrong frequency of the least frequent letters
+(252, 11) failed test due to the wrong frequency of the most frequent letters
+(252, 11) failed test due to the wrong frequency of the least frequent letters
+(161, 826) failed test due to the wrong frequency of the most frequent letters
+(161, 826) failed test due to the wrong frequency of the least frequent letters
+(677, 786) failed test due to the wrong frequency of the most frequent letters
+(677, 786) failed test due to the wrong frequency of the least frequent letters
+(594, 132) failed test due to the wrong frequency of the most frequent letters
+(594, 132) failed test due to the wrong frequency of the least frequent letters
+(699, 294) failed test due to the wrong frequency of the most frequent letters
+(699, 294) failed test due to the wrong frequency of the least frequent letters
+(79, 672) failed test due to the wrong frequency of the most frequent letters
+(79, 672) failed test due to the wrong frequency of the least frequent letters
+(802, 960) failed test due to the wrong frequency of the most frequent letters
+(802, 960) failed test due to the wrong frequency of the least frequent letters
+(358, 610) failed test due to the wrong frequency of the most frequent letters
+(358, 610) failed test due to the wrong frequency of the least frequent letters
+(549, 751) failed test due to the wrong frequency of the most frequent letters
+(549, 751) failed test due to the wrong frequency of the least frequent letters
+(758, 776) failed test due to the wrong frequency of the most frequent letters
+(758, 776) failed test due to the wrong frequency of the least frequent letters
+(655, 135) failed test due to the wrong frequency of the most frequent letters
+(655, 135) failed test due to the wrong frequency of the least frequent letters
+(548, 191) failed test due to the wrong frequency of the most frequent letters
+(548, 191) failed test due to the wrong frequency of the least frequent letters
+(947, 52) failed test due to the wrong frequency of the most frequent letters
+(947, 52) failed test due to the wrong frequency of the least frequent letters
+(727, 249) failed test due to the wrong frequency of the most frequent letters
+(727, 249) failed test due to the wrong frequency of the least frequent letters
+(320, 507) failed test due to the wrong frequency of the most frequent letters
+(320, 507) failed test due to the wrong frequency of the least frequent letters
+(492, 495) failed test due to the wrong frequency of the most frequent letters
+(492, 495) failed test due to the wrong frequency of the least frequent letters
+(668, 139) failed test due to the wrong frequency of the most frequent letters
+(668, 139) failed test due to the wrong frequency of the least frequent letters
+(593, 42) failed test due to the wrong frequency of the most frequent letters
+(593, 42) failed test due to the wrong frequency of the least frequent letters
+(903, 507) failed test due to the wrong frequency of the most frequent letters
+(903, 507) failed test due to the wrong frequency of the least frequent letters
+(462, 952) failed test due to the wrong frequency of the most frequent letters
+(462, 952) failed test due to the wrong frequency of the least frequent letters
+(461, 656) failed test due to the wrong frequency of the most frequent letters
+(461, 656) failed test due to the wrong frequency of the least frequent letters
+(45, 187) failed test due to the wrong frequency of the most frequent letters
+(45, 187) failed test due to the wrong frequency of the least frequent letters
+(548, 557) failed test due to the wrong frequency of the most frequent letters
+(548, 557) failed test due to the wrong frequency of the least frequent letters
+(781, 795) failed test due to the wrong frequency of the most frequent letters
+(781, 795) failed test due to the wrong frequency of the least frequent letters
+(675, 915) failed test due to the wrong frequency of the most frequent letters
+(675, 915) failed test due to the wrong frequency of the least frequent letters
+(4, 600) failed test due to the wrong frequency of the most frequent letters
+(4, 600) failed test due to the wrong frequency of the least frequent letters
+(107, 280) failed test due to the wrong frequency of the most frequent letters
+(107, 280) failed test due to the wrong frequency of the least frequent letters
+(448, 311) failed test due to the wrong frequency of the most frequent letters
+(448, 311) failed test due to the wrong frequency of the least frequent letters
+(345, 631) failed test due to the wrong frequency of the most frequent letters
+(345, 631) failed test due to the wrong frequency of the least frequent letters
+Keys That passed test:
+(200, 900)
+Results of passed keys:
+(200, 900)
+атызнаешьсколькоразмывэтомгодуиграливбейсболавпрошломавпозапрошломнистогониссегоспросилтомгубыегодвигалисьбыстробыстроявсезаписалтысячпятьсотшестьдесятвосемьразасколькоразячистилзубызадесятьлетжизнишестьтысячразарукимылпятнадцатьтысячразспалчетыреслишнимтысячиразиэтотольконочьюиселшестьсотперсиковивосемьсотяблокагрушвсегодвестиянеоченьтолюблюгрушичтохочешьспросиуменявсезаписаноесливспомнитьисосчитатьчтояделалзавседесятьлетпрямотысячимиллионовполучаютсявотвотдумалдугласопятьоноближепочемупотомучтотомболтаетноразведеловтомеонвсетрещититрещитсполнымртомотецсидитмолчанасторожилсякакрысьатомвсеболтаетникакнеугомонитсяшипитипенитсякаксифонссодовойкнигяпрочелчетыресташтуккиносмотрелитогобольшесорокфильмовсучастиембакаджонсатридцатьсджекомхоксисорокпятьстомоммиксомтридцатьдевятьсхутомгибсономстодевяностодвамультипликационныхпрокотафеликсадесятьсдугласомфербенксомвосемьразвиделпризраквопереслономчаничетыреразасмотрелмилтонасиллсадажеодинпролюбовьсадольфомменжутолькоятогдапросиделцелыхдевяносточасоввкиношнойуборнойвсеждалчтобэтаерундакончиласьипустиликошкуиканарейкуилилетучуюмышьаужтутвсецеплялисьдругзадружкуивизжалидвачасабезпередышкииселзаэтовремячетыресталеденцовтристатянучексемьсотстаканчиковмороженоготомболталещедолгоминутпятьпокаотецнепрервалегоасколькоягодтысегоднясобралтомровнодвестипятьдесятшестьнеморгнувглазомответилтомотецрассмеялсяинаэтомокончилсязавтраконивновьдвинулисьвлесныетенисобиратьдикийвиноградикрошечныеягодыземляникивсетроенаклонялиськсамойземлерукибыстроиловкоделалисвоеделоведравсетяжелелиадугласприслушивалсяидумалвотвотоноопятьблизкопрямоуменязаспинойнеоглядывайсяработайсобирайягодыкидайвведрооглянешьсяспугнешьнетужнаэтотразнеупущунокакбыегозаманитьпоближечтобыпоглядетьнанегоглянутьпрямовглазакакауменявспичечномкоробкеестьснежинкасказалтомиулыбнулсяглядянасвоюрукуонабылавсякраснаяотягодкаквперчаткезамолчичутьнезавопилдугласнонеткричатьнельзявсполошитсяэхоивсеспугнетпостойкатомболтаетаоноподходитвсеближезначитононебоитсятоматомтолькопритягиваетеготомтоженемножкооноделобылоещевфевралевалилснегаяподставилкоробоктомхихикнулпоймалоднуснежинкупобольшеираззахлопнулскорейпобежалдомойисунулвхолодильникблизкосовсемблизкотомтрещалбезумолкуадугласнесводилснегоглазможетотскочитьудратьведьиззалесанакатываетсякакаятогрознаяволнавотсейчасобрушитсяираздавитдасэрзадумчивопродолжалтомобрываякустдикоговинограданавесьштатиллинойсуменяуодноголетоместьснежинкатакойкладбольшенигденесыщешьхотьтреснизавтраяееоткроюдугтытожеможешьпосмотретьвдругоевремядугласбытолькопрезрительнофыркнулнудамолснежинкакакбынетакносейчаснанегомчалосьтоогромноевотвотобрушитсясясногонебаионлишьзажмурилсяикивнултомдотогоизумилсячтодажепересталсобиратьягодыповернулсяиуставилсянабратадугласзастылсидянакорточкахнукактутудержатьсятомиспустилвоинственныйкличкинулсянанегоопрокинулназемлюонипокатилисьпотравебарахтаясьитузядругдруганетнетниочемдругомнедуматьивдругкажетсявсехорошодаэтастычкапотасовканеспугнуланабегавшуюволнувотоназахлестнулаихразлиласьшироковокругинесетобоихпогустойзеленитравывглубьлесакулактомаугодилдугласупогубамвортусталогорячоисолонодугласобхватилбратакрепкостиснулегоионизамерлитолькосердцаколотилисьдадышалиобасосвистомнаконецдугласукрадкойприоткрылодинглазвдругопятьничеговотоновсетутвсекакестьточноогромныйзрачокисполинскогоглазакоторыйтожетолькочтораскрылсяиглядитвизумлениинанеговупорсмотрелвесьмирионпонялвотчтонежданнопришлокнемуитеперьостанетсяснимиуженикогдаегонепокинетяживойподумалонпальцыегодрожалирозовеянасветустремительнойкровьюточноклочкиневедомогофлагапрежденевиданногообретенноговпервыечейжеэтофлагкомутеперьприсягатьнаверностьоднойрукойонвсеещестискивалтоманосовсемзабылонемиосторожнопотрогалсветящиесяалымпальцысловнохотелснятьперчаткупотомподнялихповышеиогляделсовсехсторонвыпустилтомаоткинулсянаспинувсеещевоздеврукукнебесамитеперьвесьонбылоднаголоваглазабудточасовыесквозьбойницыневедомойкрепостиоглядывалимоствытянутуюрукуипальцыгденасветутрепеталкровавокрасныйфлагтычтодугспросилтомголосегодоносилсяточносодназеленогозамшелогоколодцаоткудатоизподводыдалекийитаинственныйподдугласомшепталисьтравыонопустилрукуиощутилихпушистыеножныигдетодалековтеннисныхтуфляхшевельнулпальцамивушахкаквраковинахвздыхалветермногоцветныймирпереливалсявзрачкахточнопестрыекартинкивхрустальномшарелесистыехолмыбылиусеяныцветамибудтоосколкамисолнцаиогненнымиклочкаминебапоогромномуопрокинутомуозерунебосводамелькалиптицыточнокамушкиброшенныеловкойрукойдугласшумнодышалсквозьзубыонсловновдыхалледивыдыхалпламятысячипчелистрекозпронизываливоздухкакэлектрическиеразрядыдесятьтысячволосковнаголоведугласавырослинаоднумиллионнуюдюймавкаждомегоухестучалопосердцутретьеколотилосьвгорлеанастоящеегулкоухаловгрудителожаднодышаломиллионамипоряиправдаживойдумалдугласпреждеяэтогонезналаможетизналданепомнюонвыкрикнулэтопросебяраздругойдесятыйнадожепрожилнасветецелыхдвенадцатьлетиничегошенькинепонималивдругтакаянаходкадралсястомомивоттебетутподдеревомсверкающиезолотыечасыредкостныйхронометрсзаводомнасемьдесятлетдугдачтостобойдугласиздалдикийвопльсгребтомавохапкуионивновьпокатилисьпоземледугтыспятилспятилоникатилисьпосклонухолмасолнцегорелоунихвглазахивортуточноосколкилимонножелтогостеклаонизадыхалиськакрыбывыброшенныеизводыихохоталидослездугтынерехнулсянетнетнетнетдугласзажмурилсявтемнотемягкоступалипятнистыелеопардытомитишетомкакпотвоемувселюдизнаютзнаютчтоониживыеяснознаютатыкакдумаллеопардынеслышнопрошлидальшевотьмуиглазауженемоглизанимиуследитьхорошобытакпрошепталдугласхорошобывсезналионоткрылглазаотецподбоченясьстоялвысоконаднимисмеялсяголоваегоупираласьвзеленолистыйнебосводглазаихвстретилисьдугласвстрепенулсяпапазнаетпонялонвсетакибылозадуманооннарочнопривезнассюдачтобыэтосомнойслучилосьонтожевзаговореонвсезнаетитеперьонзнаетчтоияужезнаюбольшаярукаопустиласьсвысотыиподнялаеговвоздухпокачиваясьнанетвердыхногахмеждуотцомитомомисцарапанныйвстрепанныйвсеещеошарашенныйдугласосторожнопотрогалсвоилоктионибыликакчужиеисудовлетворениемоблизнулразбитуюгубупотомвзглянулнаотцаинатомаяпонесувсеведрасказалонсегодняяхочуодинвсетащитьонизагадочноусмехнулисьиотдалиемуведрадугласстоялчутьпокачиваясьиегоношавесьистекающийсокомлесоттягивалаемурукихочупочувствоватьвсечтотолькоможнодумалонхочуустатьхочуоченьустатьнельзязабытьнисегоднянизавтранипослеоншелопьяненныйсосвоейтяжелойношейазанимплылипчелыизапахдикоговиноградаиослепительноелетонапальцахвспухалиблаженныемозолирукионемелиионспотыкалсятакчтоотецдажесхватилегозаплечоненадопробормоталдугласяничегояотличносправлюсьещедобрыхполчасаонощущалрукаминогамиспинойтравуикорникамниикоручтословноотпечаталисьнаеготелепоцемногуотпечатокэтотстиралсятаялускользалдугласшелидумалобэтомабратимолчаливыйотецшлипозадипредоставляяемуодномупролагатьпутьсквозьлескнеправдоподобнойцеликшоссекотороеприведетихобратновгородивотгородвтотжеденьиещеоднооткровениедедушкастоялнаширокомпарадномкрыльцеиточнокапитаноглядывалширокиенедвижныепросторыпереднимраскинулосьлетоонвопрошалветеринедостижимовысокоенебоилужайкугдестоялидугласитомивопрошалитолькоегоодногодедушкаониужесозрелидедушкапоскребподбородокпятьсоттысячадажедветысячинавернякададахорошийурожайсобиратьлегкособеритевсеплачудесятьцентовзакаждыймешоккоторыйвыпринесетекпрессуураа
+----------------------------
+Done!
