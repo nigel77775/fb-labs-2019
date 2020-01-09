@@ -1,0 +1,725 @@
+Pairs of most frequent bigrams (theoretical):
+[('ст', 'но'), ('ст', 'то'), ('ст', 'на'), ('ст', 'ен'), ('но', 'ст'), ('но', 'то'), ('но', 'на'), ('но', 'ен'), ('то', 'ст'), ('то', 'но'), ('то', 'на'), ('то', 'ен'), ('на', 'ст'), ('на', 'но'), ('на', 'то'), ('на', 'ен'), ('ен', 'ст'), ('ен', 'но'), ('ен', 'то'), ('ен', 'на')]
+
+Pairs of most frequent bigrams (practical):
+[('хб', 'нк'), ('хб', 'бй'), ('хб', 'юж'), ('хб', 'шь'), ('нк', 'хб'), ('нк', 'бй'), ('нк', 'юж'), ('нк', 'шь'), ('бй', 'хб'), ('бй', 'нк'), ('бй', 'юж'), ('бй', 'шь'), ('юж', 'хб'), ('юж', 'нк'), ('юж', 'бй'), ('юж', 'шь'), ('шь', 'хб'), ('шь', 'нк'), ('шь', 'бй'), ('шь', 'юж')]
+
+All possible keys:
+[('ух', 'ць'), ('жю', 'чж'), ('оц', 'ви'), ('эс', 'ше'), ('лк', 'лр'), ('ти', 'нх'), ('ьб', 'чч'), ('иы', 'оф'), ('шв', 'яд'), ('мч', 'аю'), ('зш', 'лл'), ('ху', 'ви'), ('рй', 'ря'), ('дя', 'тш'), ('чз', 'уд'), ('нь', 'фг'), ('во', 'хц'), ('цд', 'чр'), ('йм', 'чы'), ('се', 'вю'), ('уп', 'дк'), ('хг', 'шй'), ('тю', 'шж'), ('цх', 'яь'), ('лр', 'яб'), ('бу', 'вй'), ('яо', 'вж'), ('гж', 'иь'), ('йэ', 'юб'), ('юм', 'мк'), ('эь', 'бж'), ('бт', 'зь'), ('мв', 'ьб'), ('ас', 'йк'), ('ве', 'юй'), ('гч', 'дь'), ('ик', 'пб'), ('ыщ', 'юк'), ('юн', 'тй'), ('ыи', 'тж'), ('фч', 'ах'), ('жс', 'се'), ('жя', 'еу'), ('юь', 'вю'), ('ки', 'вх'), ('рщ', 'ющ'), ('сз', 'ти'), ('йг', 'пт'), ('шо', 'ее'), ('ож', 'пщ'), ('ан', 'фч'), ('чй', 'тв'), ('шб', 'ну'), ('нш', 'ши'), ('ят', 'йч'), ('цы', 'ьр'), ('бе', 'лю'), ('хэ', 'цт'), ('зц', 'ив'), ('ид', 'ыр'), ('зж', 'эк'), ('еь', 'дй'), ('чш', 'ыж'), ('хы', 'оь'), ('чщ', 'жб'), ('юф', 'фй'), ('рт', 'мж'), ('ох', 'яь'), ('ще', 'тб'), ('бл', 'щк'), ('сю', 'шж'), ('рб', 'ль'), ('зз', 'чб'), ('он', 'як'), ('нв', 'жй'), ('юг', 'рь'), ('йд', 'аб'), ('рк', 'зк'), ('оя', 'ой'), ('бэ', 'жж'), ('сц', 'ог'), ('хч', 'жф'), ('аь', 'мй'), ('кж', 'ск'), ('нй', 'фи'), ('дб', 'еы'), ('од', 'лр'), ('чп', 'рс'), ('йи', 'пх'), ('ья', 'ич'), ('кг', 'жю'), ('уо', 'ля'), ('яе', 'жю'), ('ры', 'аа'), ('фэ', 'чс'), ('йл', 'гз'), ('фщ', 'эс'), ('зр', 'ху'), ('лс', 'ое'), ('хф', 'ущ'), ('ик', 'гр'), ('лв', 'рд'), ('дй', 'пя'), ('до', 'рц'), ('вч', 'щю'), ('ья', 'щш'), ('ыд', 'ьр'), ('ую', 'жж'), ('эи', 'ух'), ('шз', 'бд'), ('шм', 'бы'), ('ьц', 'ги'), ('дб', 'рч'), ('жш', 'юл'), ('ае', 'юю'), ('ьс', 'юе'), ('гы', 'лф'), ('жу', 'ши'), ('яь', 'шг'), ('ыж', 'эк'), ('йь', 'дй'), ('кш', 'ыж'), ('ты', 'оь'), ('гщ', 'жб'), ('нф', 'фй'), ('от', 'мж'), ('хе', 'тб'), ('сл', 'щк'), ('аю', 'шж'), ('йб', 'ль'), ('фз', 'чб'), ('рн', 'як'), ('яв', 'жй'), ('иг', 'рь'), ('мд', 'аб'), ('ик', 'зк'), ('хя', 'ой'), ('цэ', 'жж'), ('ац', 'тг'), ('яч', 'нф'), ('щь', 'эй'), ('лж', 'дк'), ('яй', 'ри'), ('яб', 'иы'), ('щд', 'чр'), ('кп', 'яс'), ('аи', 'их'), ('ая', 'еч'), ('ьг', 'пю'), ('ло', 'ця'), ('ее', 'хю'), ('еы', 'уа'), ('дэ', 'ос'), ('рл', 'ез'), ('ущ', 'кс'), ('фр', 'зу'), ('ус', 'ге'), ('оф', 'сщ'), ('бп', 'мб'), ('ег', 'нб'), ('ию', 'рб'), ('гх', 'ыб'), ('юр', 'цк'), ('гу', 'ок'), ('зо', 'ск'), ('вж', 'эк'), ('щэ', 'йй'), ('ым', 'ай'), ('гь', 'дй'), ('ют', 'пй'), ('цв', 'гж'), ('чс', 'щж'), ('ые', 'ьж'), ('щч', 'йж'), ('ык', 'ть'), ('эщ', 'йь'), ('бн', 'кь'), ('еи', 'нь')]
+
+Bad keys and reasons why:
+
+Key: ('ух', 'ць') 610 708
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('жю', 'чж') 215 719
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('оц', 'ви') 456 70
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('эс', 'ше') 885 749
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('лк', 'лр') 351 357
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ти', 'нх') 566 424
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ьб', 'чч') 807 736
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('иы', 'оф') 275 454
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('шв', 'яд') 746 934
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('мч', 'аю') 395 29
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зш', 'лл') 241 352
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ху', 'ви') 670 70
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рй', 'ря') 505 526
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('дя', 'тш') 154 582
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('чз', 'уд') 720 593
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('нь', 'фг') 429 623
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('во', 'хц') 76 673
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('цд', 'чр') 686 729
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йм', 'чы') 291 740
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('се', 'вю') 532 91
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('уп', 'дк') 604 134
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хг', 'шй') 654 753
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('тю', 'шж') 587 750
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('лр', 'яб') 357 931
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бу', 'вй') 50 71
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яо', 'вж') 944 68
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гж', 'иь') 99 274
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йэ', 'юб') 307 900
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юм', 'мк') 911 382
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('эь', 'бж') 894 37
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бт', 'зь') 49 243
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('мв', 'ьб') 374 807
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ас', 'йк') 17 289
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ве', 'юй') 67 908
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гч', 'дь') 116 150
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ик', 'пб') 258 466
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ыщ', 'юк') 862 909
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юн', 'тй') 912 567
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ыи', 'тж') 845 564
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('фч', 'ах') 643 21
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('жс', 'се') 203 532
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('жя', 'еу') 216 174
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юь', 'вю') 925 91
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('ки', 'вх') 318 83
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рщ', 'ющ') 521 924
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('сз', 'ти') 534 566
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йг', 'пт') 282 483
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('шо', 'ее') 758 160
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ож', 'пщ') 440 490
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ан', 'фч') 13 643
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('чй', 'тв') 722 560
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('шб', 'ну') 745 422
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('нш', 'ши') 427 752
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ят', 'йч') 948 302
+The text is not real:
+Forbidden bigram found: уь
+
+Key: ('цы', 'ьр') 709 822
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('бе', 'лю') 36 370
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хэ', 'цт') 679 700
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зц', 'ив') 239 250
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ид', 'ыр') 252 853
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зж', 'эк') 223 878
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('еь', 'дй') 181 133
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('чш', 'ыж') 737 843
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хы', 'оь') 678 460
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('чщ', 'жб') 738 187
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юф', 'фй') 919 629
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рт', 'мж') 514 378
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ох', 'яь') 455 956
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ще', 'тб') 780 559
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бл', 'щк') 42 785
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('сю', 'шж') 556 750
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рб', 'ль') 497 367
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зз', 'чб') 224 714
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('он', 'як') 447 940
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('нв', 'жй') 405 195
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юг', 'рь') 902 522
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йд', 'аб') 283 1
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рк', 'зк') 506 227
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('оя', 'ой') 464 443
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бэ', 'жж') 59 192
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('сц', 'ог') 549 437
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хч', 'жф') 674 206
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('аь', 'мй') 26 381
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('кж', 'ск') 316 537
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('нй', 'фи') 412 628
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('дб', 'еы') 125 182
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('од', 'лр') 438 357
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('чп', 'рс') 728 513
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йи', 'пх') 287 486
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ья', 'ич') 836 271
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('кг', 'жю') 313 215
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('уо', 'ля') 603 371
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яе', 'жю') 935 215
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ры', 'аа') 523 0
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('фэ', 'чс') 648 730
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йл', 'гз') 290 100
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('фщ', 'эс') 645 885
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зр', 'ху') 233 670
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('лс', 'ое') 358 439
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хф', 'ущ') 671 614
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ик', 'гр') 258 109
+The text is not real:
+Forbidden bigram found: ыь
+
+Key: ('лв', 'рд') 343 500
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('дй', 'пя') 133 495
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('до', 'рц') 138 518
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('вч', 'щю') 85 804
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ья', 'щш') 836 799
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('ыд', 'ьр') 841 822
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ую', 'жж') 618 192
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('эи', 'ух') 876 610
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('шз', 'бд') 751 35
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('шм', 'бы') 756 58
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('ьц', 'ги') 828 101
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('дб', 'рч') 125 519
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('жш', 'юл') 210 910
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ае', 'юю') 5 928
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ьс', 'юе') 823 904
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гы', 'лф') 120 361
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('жу', 'ши') 205 752
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яь', 'шг') 956 747
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ыж', 'эк') 843 878
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йь', 'дй') 305 133
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('кш', 'ыж') 334 843
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ты', 'оь') 585 460
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гщ', 'жб') 118 187
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('нф', 'фй') 423 629
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('от', 'мж') 452 378
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хе', 'тб') 656 559
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('сл', 'щк') 538 785
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('аю', 'шж') 29 750
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('йб', 'ль') 280 367
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('фз', 'чб') 627 714
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рн', 'як') 509 940
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яв', 'жй') 932 195
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('иг', 'рь') 251 522
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('мд', 'аб') 376 1
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ик', 'зк') 258 227
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('хя', 'ой') 681 443
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('цэ', 'жж') 710 192
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ац', 'тг') 22 561
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яч', 'нф') 953 423
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('щь', 'эй') 801 877
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('лж', 'дк') 347 134
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яй', 'ри') 939 504
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('яб', 'иы') 931 275
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('щд', 'чр') 779 729
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('кп', 'яс') 325 947
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('аи', 'их') 8 269
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ая', 'еч') 30 178
+The text is not real:
+Forbidden bigram found: оь
+
+Key: ('ьг', 'пю') 809 494
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ло', 'ця') 355 712
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ее', 'хю') 160 680
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('еы', 'уа') 182 589
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('дэ', 'ос') 152 451
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('рл', 'ез') 507 162
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ущ', 'кс') 614 327
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('фр', 'зу') 636 236
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ус', 'ге') 606 98
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('оф', 'сщ') 454 552
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бп', 'мб') 46 373
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ег', 'нб') 158 404
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ию', 'рб') 277 497
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гх', 'ыб') 114 838
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('юр', 'цк') 915 692
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гу', 'ок') 112 444
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('зо', 'ск') 231 537
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('вж', 'эк') 68 878
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('щэ', 'йй') 803 288
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ым', 'ай') 849 9
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('гь', 'дй') 119 133
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ют', 'пй') 917 474
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('цв', 'гж') 684 99
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('чс', 'щж') 730 781
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ые', 'ьж') 842 812
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('щч', 'йж') 798 285
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('ык', 'ть') 847 584
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('эщ', 'йь') 893 305
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('бн', 'кь') 44 336
+The text is not real:
+Forbidden bigram found: аь
+
+Key: ('еи', 'нь') 163 429
+The text is not real:
+Forbidden bigram found: аь
+
+
+All texts that matched the text reality check and their texts:
+
+Key: ('цх', 'яь') or (703, 956)
+
+хорошосэрбиллнехотясунулденьгивкарманвотчтобиллвыпростопосеетеэтуновуютравукогданибудьвдругойразкактолькояпомрунадругойжеденьможетеперекопатьэтучертовулужайкунукакхватитувастерпенияподождатьещелетпятьшестьчтобыстарыйболтунуспелотдатьконцыужбудьтеувереныподождусказалбиллсамнезнаюкаквамобяснитьнодляменяжужжаньеэтойкосилкисамаяпрекраснаямелодиянасветевнейвсяпрелестьлетабезнееябыужаснотосковалибеззапахасвежескошеннойтравытожебиллнагнулсяиподнялсземликорзинкуяпошелковрагувыславныйюношаивсепонимаетеяуверенизвасполучитсяблестящийиумныйрепортерсказалдедушкапомогаяемуподнятькорзинкуявамэтопредсказываюпрошлоутронаступилполденьпослеобедадедушкаподнялсяксебенемногопочиталуиттиераикрепкоуснулкогдаонпроснулсябылотричасавокнавливалсяяркийивеселыйсолнечныйсветдедушкалежалвкроватиивдругвздрогнулслужайкидоносилосьпрежнеезнакомоенезабываемоежужжаньечтоэтосказалонктотокоситтравуноведьеетолькосегодняутромскосилионещепослушалдаконечноэтожужжиткосилкамернонеутомимодедушкавыглянулвокноиахнулдаведьэтобиллэйбиллфорестервамчтосолнцеудариловголовувыкоситеужескошеннуютравубиллподнялголовупростодушноулыбнулсяипомахалрукойзнаюнокажетсяутромяработалнеоченьчистодедушкаещедобрыхпятьминутнежилсявкроватиислицаегонесходилаулыбкаабиллфорестервсешагалскосилкойнасевернавостокнаюгинаконецназападиизподкосилкивеселобилдушистыйзеленыйфонтанввоскресеньеутромлеоауфманбродилпосвоемугаражусловноожидаячтокакоенибудьполеновитокпроволокимолотокилигаечныйключподпрыгнетизакричитначнисменяноничтонеподпрыгивалоничтонепросилосьвначалокакаяонадолжнабытьэтамашинасчастьядумаллеоможетонадолжнаумещатьсявкарманеилионадолжнатебясамогоноситьвкарманеодноязнаютвердосказалонвслухонадолжнабытьяркойлеопоставилнаверстакбанкуоранжевойкраскивзялсловарьипобрелвдомлинаонзаглянулвтолковыйсловарьтыдовольнаспокойнавеселаввосторгетебевовсемвезетивсеудаетсяпотвоемувсеидетразумнохорошоиуспешнолинапересталарезатьовощиизакрылаглазапрочитаймневсеэтоещеразпожалуйсталеозахлопнулсловарьзакакиеэтогрехиядолженцелыйчасждатьпокатыпридумаешьмнеответскажитолькодаилинетбольшемненичегоненадотычтоженедовольнанеспокойнаневеселаиневвосторгедовольныбываюткоровыаввосторгемладенцыданесчастныестарикикоторыеужевпаливдетствосказалалинануанасчеттогочтовеселасамвидишькакявеселосмеюськогдаскребуэтураковинулеовнимательнопогляделнаженуилицоегопрояснилосьтыправалинамужчинытакойнародникогданичегонесмыслятможетбытьмывырвемсяизэтогозаколдованногокругаужесовсемскороявовсенежалуюсьзакричалалинаятонеприхожуктебесословареминеговорювысуньязыклеотыведьнеспрашиваешьпочемусердцеутебястучитнетолькоднемноиночьюнетаможешьтыспроситьчтотакоебракктоэтознаетнезадавайвопросовестьжетакиелюдивсеимнадознатькакустроенмиркактокакседакакэтозадумаетсятакойипадаетстрапециивциркелибозадохнетсяпотомучтоемуприспичилопонятькакунеговгорлемускулыработаютешьпейспидышииперестаньсмотретьнаменятакимиглазамибудтовпервыйразвидишьлинаауфманвдругзамерлапотянуланосомвоздухвотбедаавсетывиноватонарвануладверцудуховкиоттудаповалилдымсчастьесчастьегорестновоскликнулаонаиззаэтогосчастьямыстобойссоримсявпервыйраззаполгодаивпервыйраззадвадцатьлетнаужинбудутугольявместохлебакогдадымрассеялсялеоауфманаужеиследпростылгрохотлязгсхваткачеловекасвдохновениемденьзаднемввоздухетакимелькаюткускиметалладеревамолотокгвоздирейсшинаотверткипоройлеоауфманаохватывалоотчаяниеионскиталсяпоулицамвсегдабеспокойныйвсегданачекуонвздрагивалиоборачивалсязаслышавгдетовдалекечейтосмехприслушивалсякзабавамдетворыприсматривалсячтовызываетудетейулыбкувечерамионподсаживалсякшумнойкомпаниинаверандеукогонибудьизсоседейслушалкакстарикивспоминаютпрошлоеитолкуютожизнииприкаждомвзрывевесельяоживлялсяточногенералкоторыйвидитчтотемныевражескиесилыразгромленыичтоегостратегияоказаласьправильнойподорогедомойонторжествовалпоканевходилопятьвсвойгаражгдележалимертвыеинструментыинеодушевленноедеревотогдаегосияющеелицовновьмрачнелоипытаясьизбытьгоречьнеудачионсожесточениемрасшвыриваликолотилчастисвоеймашинысловноэтобылиживыеяростныепротивникинаконецконтурымашиныначаливырисовыватьсяичерездесятьднейиночейдрожаотусталостиизможденныйполумертвыйотголодатакойвысохшийипочерневшийточновнегоудариламолниялеоауфманспотыкаясьпобрелвдомдетиссорилисьиоглушительнокричалидругнадруганопривидеотцатотчасумолкликакбудтопробилурочныйчасивкомнатувошласамасмертьмашинасчастьяготовапрохрипеллеоауфманлеоауфманпохуделнапятнадцатьфунтовсказалаегоженаонужедвенеделинеразговаривалсосвоимидетьмионисаминесвоясмотритеонидерутсяегоженатожесаманесвоясмотритеонапотолстеланадесятьфунтовтеперьейпонадобятсяновыеплатьядаконечномашинаготоваасталимысчастливеектоскажетлеобросьтымастеритьэтичасывнихневлезетниоднакукушкачеловекунеположеносоватьсявтакиеделагосподубогуэтонавернонеповредитавотлеоауфмануодинврединикакойпользыеслитакбудетпродолжатьсяещехотьнеделюмыегопохоронимвегособственноймашиненоэтихсловлеоауфмануженеслышалонсизумлениемсмотрелкакнанеговалитсяпотолоквоттакштукаподумалонужележанаполунотутегообволоклатьмаионуслышалтолькокакктототриждыпрокричалчтотонасчетмашинысчастьянадругоеутроедвараскрывглазаонувиделптицонипроносилисьввоздухеточноразноцветныекамешкиброшенныевнепостижимочистыйручейилегонькозвякнувопускалисьнажестянуюкрышугаражасобакивсевозможныхпородтихонькопрокрадывалисьводвориповизгиваязаглядываливгаражчетверомальчишекдведевочкиинесколькомужчинпомедлилинадорожкепотомнерешительноподошлипоближеиостановилисьподвишнямилеоауфманприслушалсяипонялчтовлечетихвсехкнемуводворголосмашинысчастьятакоеможнобылобыуслышатьлетнимднемвозлекухникакойнибудьвеликаншиэтобылоразноголосоежужжаньевысокоеинизкоеторовноетопрерывистоеказалосьтамвьютсяроемогромныезолотистыепчелывеличинойсчашкуистряпаютсказочныеблюдасамавеликаншаудовлетворенномурлычетсебеподноспесенкулицоунееточнорозоваялунавполнолуниевотвотонанеобятнаякаклетоподплыветкдверямиспокойноглянетводворнаулыбающихсясобакнабелобрысыхмальчишекиседыхстариковпостойтекагромкосказаллеояведьсегодняещеневключалмашинусаулсаулподнялголовуонтожестоялвнизуводворесаултыеевключилтыжесамполчасаназадвелелмнеразогретьееахдаясовсемзабыляещетолкомнепроснулсяионопятьоткинулсянаподушкулинапринеслаемузавтракиостановиласьуокнаглядявнизнагаражпослушайлеонегромкосказалаонаеслиэтамашинаивправдутакаякактыговоришьможетбытьонаумеетрожатьдетейаможетонапревратитьстарикасновавюношуиещеможновэтоймашинесовсемеесчастьемспрятатьсяотсмертиспрятатьсявоттыработаешьсебянежалеешьавконцеконцовнадорвешьсяипомрешьчтоятогдабудуделатьвлезувэтотбольшойящикистанусчастливойиещескажимнелеочтоунастеперьзажизньсамзнаешькакунасведетсядомвсемьутраяподнимаюдетейкормлюихзавтракомкполовинедевятоговасникогоуженетияостаюсьоднасостиркойоднасготовкойиноскиштопатьтоженадоиогородполотьивлавкусбегатьисеребропочиститьяразвежалуюсьятольконапоминаютебекакведетсянашдомлеокакяживутаквотответьмнекаквсеэтоуместитсявтвоюмашинуонаустроенасовсеминачеоченьжальзначитмненекогдабудетдажепосмотретькаконаустроеналинапоцеловалаеговщекуивышлаизкомнатыаонлежалипринюхивалсяветерснизудоносилсюдазапахмашиныижареныхкаштановчтопродаютсяосеньюнаулицахпарижакоторогоонникогданевиделмеждузавороженнымисобакамиимальчишкаминевидимкойпроскользнулакошкаизамурлыкалаудверейгаражааиззагаражаслышалсяшорохснежнобелойпенымерноедыханьеприбояудалекихдалекихбереговзавтрамыиспытаеммашинудумаллеоауфманвсевместеонпроснулсяпоздноночьючтотоегоразбудилодалековдругойкомнатектотоплакалсаулэтотышепнуллеоауфманвылезаяизкроватиипошелксынумальчикгорькорыдалуткнувшисьвподушкунетнетвсхлипывалонвсеконченоконченосаултебеприснилосьчтонибудьстрашноерасскажимнесынокномальчиктолькозаливалсяслезамиитутсидяунегонакроватилеоауфмансамнезнаяпочемувыглянулвокнодверигаражабылираспахнутынастежьонпочувствовалкакволосыунеговсталидыбомкогдасаултихоньковсхлипываянаконецзабылсябеспокойнымсномотецспустилсяполестницеподошелкгаражуизатаивдыханиеосторожновытянулрукуаа

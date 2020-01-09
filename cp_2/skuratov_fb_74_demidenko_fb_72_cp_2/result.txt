@@ -1,0 +1,43 @@
+Index for open text = 0.0561828
+
+index for k2 : 0.0417827
+index for k3 : 0.0368259
+index for k5 : 0.0364497
+index for k9 : 0.0345875
+index for k12 : 0.0348242
+index for k15 : 0.0328668
+index for k19 : 0.0326702
+
+
+Index for 2 = 0.0353776
+Index for 3 = 0.0338309
+Index for 4 = 0.0353141
+Index for 5 = 0.0337755
+Index for 6 = 0.0354391
+Index for 7 = 0.0424808
+Index for 8 = 0.0354522
+Index for 9 = 0.0338365
+Index for 10 = 0.0352651
+Index for 11 = 0.0337932
+Index for 12 = 0.0353988
+Index for 13 = 0.0337373
+Index for 14 = 0.0534105
+Index for 15 = 0.0336351
+Index for 16 = 0.0357043
+Index for 17 = 0.0338589
+Index for 18 = 0.0354968
+Index for 19 = 0.0340795
+Index for 20 = 0.0352489
+Index for 21 = 0.0423153
+Index for 22 = 0.0351691
+Index for 23 = 0.0337577
+Index for 24 = 0.0355538
+Index for 25 = 0.0339126
+Index for 26 = 0.035435
+Index for 27 = 0.0335711
+Index for 28 = 0.0532554
+Index for 29 = 0.0335503
+Index for 30 = 0.0350808
+
+
+KEY: поснбковандрей
