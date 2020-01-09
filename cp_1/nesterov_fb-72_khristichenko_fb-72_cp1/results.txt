@@ -1,0 +1,90 @@
+Number of characters in the changed text with the spaces: 468482
+Monograms with spaces
+The amount of each symbol in the text is: Counter({' ': 76446, 'о': 45606, 'а': 33550, 'е': 32916, 'и': 27862, 'н': 26390, 'т': 24804, 'с': 21040, 'л': 20496, 'р': 19312, 'в': 18626, 'к': 14438, 'у': 12018, 'м': 11762, 'п': 11456, 'д': 10894, 'з': 7724, 'г': 7324, 'я': 7170, 'ь': 6904, 'ы': 6816, 'б': 6536, 'ч': 6512, 'й': 4850, 'ж': 3528, 'ш': 3320, 'х': 3046, 'ю': 1968, 'ц': 1448, 'э': 1440, 'щ': 1392, 'ф': 698, 'ъ': 132})
+Here are the sequences: 0.09532548534354464
+Here are the sequences: 0.022770596792803036
+Here are the sequences: 0.055160276240322395
+Here are the sequences: 0.07012608063140645
+Here are the sequences: 0.0073742119960537094
+Here are the sequences: 0.014246776917545943
+Here are the sequences: 0.15978713442469442
+Here are the sequences: 0.03893199337825862
+Here are the sequences: 0.06880089627610655
+Here are the sequences: 0.04397772686988947
+Here are the sequences: 0.004113506011404111
+Here are the sequences: 0.013611357289768072
+Here are the sequences: 0.01366152199722422
+Here are the sequences: 0.04284066016755012
+Here are the sequences: 0.040365867933046834
+Here are the sequences: 0.030178251927160844
+Here are the sequences: 0.015308596558701069
+Here are the sequences: 0.01614467501630353
+Here are the sequences: 0.05184522515592863
+Here are the sequences: 0.024584887045800377
+Here are the sequences: 0.023945287025734494
+Here are the sequences: 0.05823704496429945
+Here are the sequences: 0.006939451198100429
+Here are the sequences: 0.0063667374546427435
+Here are the sequences: 0.025119977258665955
+Here are the sequences: 0.014986706352524122
+Here are the sequences: 0.014430714178218484
+Here are the sequences: 0.010137451298429846
+Here are the sequences: 0.0030266040165209105
+Here are the sequences: 0.0029095530324565657
+Here are the sequences: 0.00027590589100881226
+Here are the sequences: 0.003009882447368861
+Here are the sequences: 0.0014589569085162951
+Monogram entropy with the spaces is: 4.368146932477236
+Below is your H!
+0.14138990911947735
+Number of characters in the channged text without spaces: 392036
+Monogram without spaces
+The amount of each symbol in the text is: Counter({'о': 45606, 'а': 33550, 'е': 32916, 'и': 27862, 'н': 26390, 'т': 24804, 'с': 21040, 'л': 20496, 'р': 19312, 'в': 18626, 'к': 14438, 'у': 12018, 'м': 11762, 'п': 11456, 'д': 10894, 'з': 7724, 'г': 7324, 'я': 7170, 'ь': 6904, 'ы': 6816, 'б': 6536, 'ч': 6512, 'й': 4850, 'ж': 3528, 'ш': 3320, 'х': 3046, 'ю': 1968, 'ц': 1448, 'э': 1440, 'щ': 1392, 'ф': 698, 'ъ': 132})
+Here are the sequences: 0.11345397011776764
+Here are the sequences: 0.02710098562607904
+Here are the sequences: 0.06565035897486927
+Here are the sequences: 0.08346227903019568
+Here are the sequences: 0.008776599714412232
+Here are the sequences: 0.016956151829204583
+Here are the sequences: 0.04633586912716616
+Here are the sequences: 0.0818850782878665
+Here are the sequences: 0.052341172900009454
+Here are the sequences: 0.0048957903168830134
+Here are the sequences: 0.016199891536352734
+Here are the sequences: 0.016259596296314724
+Here are the sequences: 0.05098786500753773
+Here are the sequences: 0.04804243018274632
+Here are the sequences: 0.03591738851379926
+Here are the sequences: 0.018219902581733328
+Here are the sequences: 0.01921498191443313
+Here are the sequences: 0.06170486942071457
+Here are the sequences: 0.029260307778037602
+Here are the sequences: 0.028499072088522256
+Here are the sequences: 0.06931225091920454
+Here are the sequences: 0.008259158461408336
+Here are the sequences: 0.007577529118508973
+Here are the sequences: 0.029897158550965475
+Here are the sequences: 0.017836797038643906
+Here are the sequences: 0.01717506928239854
+Here are the sequences: 0.012065336908985069
+Here are the sequences: 0.003602187184373274
+Here are the sequences: 0.003462876077795302
+Here are the sequences: 0.00032837617979093384
+Here are the sequences: 0.0035822855977192783
+Here are the sequences: 0.00173641343556115
+Monogram entropy without the spaces is: 4.444524734321259
+Below is your H!
+0.1189180248099817
+The amount of bi grams is: 169346
+Bi gram entropy with the spaces is: 3.9896919730732106
+Below is your H!
+0.2157796336665393
+Bi gram entropy without the spaces is: 4.1327757275226205
+Below is your H!
+0.18071910526130197
+Bi gram entropy with the spaces and without crossing is: 3.9887053001250443
+Below is your H!
+0.21597357571171083
+Bi gram entropy without the spaces and without crossing is: 4.132775328521317
+Below is your H!
+0.1807191843592657
