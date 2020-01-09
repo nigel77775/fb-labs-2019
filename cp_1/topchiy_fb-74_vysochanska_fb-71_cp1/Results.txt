@@ -1,0 +1,40 @@
+			Monograms entropy:
+	
+	With Space:		|	Without Space:
+				|	
+	4.372			|	4.459
+
+			Monograms redundancy:
+
+	With Space:		|	Without Space:
+				|
+	0.1331			|	0.1159
+
+
+
+
+					Bigrams entropy:	
+
+			With Intersection 	|	Without Intersection
+
+With Space		3.96962			|	3.96929
+
+
+Without Space		4.13517			|	4.13567
+
+
+					Bigrams redundancy:
+
+
+			With Intersection 	|	Without Intersection
+
+With Space		0.2130			|	0.2131
+
+
+Without Space		0.1802			|	0.1801
+
+
+					Pink application:
+H10: 1.6966 < H10 < 2.3635
+H20: 1.4977 < H20 < 2.2237
+H30: 1.8317 < H30 < 2.7149
